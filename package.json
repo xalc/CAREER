@@ -14,6 +14,10 @@
     "react",
     "bootstrcp"
   ],
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/xalc/CAREER.git"
+  },
   "author": "chao1990li@gmail.com",
   "license": "MIT",
   "dependencies": {
