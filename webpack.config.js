@@ -7,7 +7,6 @@ module.exports ={
         path: path.join(__dirname,"public/js")
     },
     devtool:"source-map",
-    watch:true,
     devServer: {
             contentBase: path.join(__dirname, "assets"),
             compress: true,
