@@ -1,4 +1,4 @@
-import React,{Componet ,Protypes} from 'react';
+import React,{Component ,Protypes} from 'react';
 import ReactDOM from 'react-dom';
 
 class App extends Component{
@@ -7,9 +7,12 @@ class App extends Component{
       <div className="shopping-list">
         <h1>Shopping List for testttt</h1>
         <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
+          <li>Hello</li>
           <li>Oculus</li>
+            <li>Oculus</li>
+            
+
+
         </ul>
       </div>
     );
